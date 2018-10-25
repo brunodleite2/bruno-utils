@@ -48,9 +48,6 @@ filetype plugin indent on    " required
 "
 " see :h vundle for more details or wiki for FAQ
 
-execute pathogen#infect()
-call pathogen#helptags()
-
 syntax on
 colorscheme monokai
 
